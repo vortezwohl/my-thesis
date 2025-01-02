@@ -52,11 +52,17 @@
 
 ## 相关工作
 
-- Openai Swarm
+- 非自主智能体，workflow agent 等等
 
-- AutoGen
+- 自主智能体，agentic ai
 
-- CrewAI
+    - Openai Swarm
+
+    - AutoGen
+
+    - CrewAI
+
+    ...
 
 ## 我的算法
 
